@@ -1,24 +1,18 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Current Neuroscience Undergraduate at the University of Leeds with an interest in exploring datascience.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BSc Neuroscience
+    institution: University of Leeds
+    year: 2018-2022
+email: "Blairallan@me.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuroscience
+- Datascience
+- Travel
 organizations:
-- name: Stanford University
+- name: University of Leeds
   url: https://www.stanford.edu/
 role: Professor of Artificial Intelligence
 social:
@@ -38,7 +32,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Blair Allan
 user_groups:
 - Principal Investigators
 ---
