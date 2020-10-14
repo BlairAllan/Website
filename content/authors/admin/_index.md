@@ -13,24 +13,24 @@ interests:
 - Travel
 organizations:
 - name: University of Leeds
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+  url: https://www.leeds.ac.uk
+role: Undergraduate Student
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/BlairAllan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/blair-allan-b1731313a/
 superuser: true
 title: Blair Allan
 user_groups:
