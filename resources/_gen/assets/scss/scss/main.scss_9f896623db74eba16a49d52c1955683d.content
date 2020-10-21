@@ -7661,7 +7661,7 @@ footer {
   width: 100%; }
 
 footer p {
-  font-size: 0.75rem;
+  font-size: 0rem;
   text-align: center; }
 
 footer .powered-by {
@@ -7689,8 +7689,8 @@ footer a.back-to-top i {
 
 .footer-license-icons img {
   display: inline-flex;
-  margin-right: 8px;
-  height: 22px;
+  margin-right: 0px;
+  height: 0px;
   vertical-align: text-bottom; }
 
 /*************************************************
@@ -9234,7 +9234,7 @@ body.dark,
 div.mermaid {
   width: 100%;
   text-align: center;
-  margin-bottom: 1rem; }
+  margin-bottom: 0rem; }
 
 /*************************************************
  *  Style for right to left (RTL) languages.
